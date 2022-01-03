@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FahrezaIsnanto
-- 📫 How to reach me http:s//fahrezaisnanto.com
+- 📫 How to reach me https://fahrezaisnanto.com
 
 <!---
 FahrezaIsnanto/FahrezaIsnanto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

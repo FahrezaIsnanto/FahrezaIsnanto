@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @FahrezaIsnanto
-- 👀 I’m interested in Web Developer
-- 🌱 I’m currently learning MERN 
 - 📫 How to reach me http:s//fahrezaisnanto.com
 
 <!---

@@ -15,7 +15,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=FahrezaIsnanto&show_icons=true" alt="FahrezaIsnanto" /></p>
 
-<br /><br />
+<br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahrezaIsnanto&layout=compact" alt="FahrezaIsnanto" /></p>
 
 [linkedin]: https://www.linkedin.com/in/muhammad-fahreza-isnanto-3192b0213

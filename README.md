@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FahrezaIsnanto" alt="FahrezaIsnanto" /> </p>
 
-- 👨‍💻 I'm Full Stack Web Developer at Destinasi Computindo
+- 👨‍💻 I'm Software Developer | DevOps Engineer at Destinasi Computindo
 - 🖥️ I'm usually coding with vue2(nuxt2), C# (asp.net 6)
 - ☁️ I’m currently enjoy learning Cloud Computing (Google Cloud Platform)
 
